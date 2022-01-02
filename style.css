@@ -1,6 +1,12 @@
 <style>
-.important {
-  text-align: center;
-}
+  .important {
+    text-align: center;
+  }
 </style>
-<p class="important"> навыки</p>
+  <p class="important"> навыки</p>
+ <style>
+  .violet {
+  color: #9400D3;  
+  }
+</style>
+   <span class="violet">Здесь текст фиолетового цвета </span>
